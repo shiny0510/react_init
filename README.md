@@ -11,3 +11,8 @@ nvm install 14.18.1
 nvm use 14.18.1
 
 npx create-react-app osh
+
+yarn start (npm start)
+yarn build (npm run build)
+yarn test (npm run test)
+yarn eject (npm run eject)
